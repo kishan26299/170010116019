@@ -1,4 +1,4 @@
-*****TCP_Client.java*****
+*TCP_Client.java
 
 import java.net.*;
 import java.io.*;
@@ -24,7 +24,7 @@ class Client{
 	}
 }
 
-*****TCP_Server.java*****
+*TCP_Server.java
 
 import java.net.*;
 import java.io.*;
@@ -59,7 +59,7 @@ class Server{
 	}
 }
 
-*****UDP_Client.java*******
+*UDP_Client.java
 
 import java.io.IOException; 
 import java.net.DatagramPacket; 
@@ -102,11 +102,10 @@ class Client
 } 
 
 
-*******UDP_Server.java*******
+*UDP_Server.java
 
 
-// Java program to illustrate Server side 
-// Implementation using DatagramSocket 
+
 import java.io.IOException; 
 import java.net.DatagramPacket; 
 import java.net.DatagramSocket; 
